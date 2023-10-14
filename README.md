@@ -1,7 +1,7 @@
 ## Stream translation without internet
 
 1. download VLC Player https://www.videolan.org/vlc/index.de.html
-2. connect to local wifi in the hall: test WiFi
+2. connect to local wifi in the hall: *Translation*
 3. copy network address:
 
     Translation
@@ -41,7 +41,7 @@
     http://192.168.188.20:8000/original.m3u
     ```
 <p align="center">
-          <img height="500" src="https://github.com/MaxWindt/translation/assets/86522026/8bacfcc6-7650-4ef3-a2e7-4060c6ec3398" /> <img height="500" src="https://github.com/MaxWindt/translation/assets/86522026/123d60ae-faaa-4509-86e6-1b510526bfe0" />
+          <img height="500" src="https://github.com/MaxWindt/translation/assets/86522026/70445e04-5c9b-490f-bd24-a36da3452c74" /> <img height="500" src="https://github.com/MaxWindt/translation/assets/86522026/8bacfcc6-7650-4ef3-a2e7-4060c6ec3398" /> <img height="500" src="https://github.com/MaxWindt/translation/assets/86522026/123d60ae-faaa-4509-86e6-1b510526bfe0" />
         </p>
 
 Wenn Audio mehr als 5 sek Verzögerung hat:
