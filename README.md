@@ -16,12 +16,11 @@
    
 
 5. Open VLC go to: "Network" (at the bottom) then hit: "Open Network Stream" and copy the adress inside
+6. If audio has more than 5 sec delay -> Move playback position all the way to the front
 <p align="center">
          <img height="500" src="https://github.com/MaxWindt/translation/assets/86522026/70445e04-5c9b-490f-bd24-a36da3452c74" />  <img height="500" src="https://github.com/MaxWindt/translation/assets/86522026/71539e88-acc8-4a08-b6eb-a4afcd935dfa" /> <img height="500" src="https://github.com/MaxWindt/translation/assets/86522026/d46e4beb-d423-4968-abb1-d4d70b4d6d72" /> 
         </p>
 
-If audio has more than 5 sec delay:
-- Move playback position all the way to the front
 
 -----
 
