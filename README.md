@@ -14,9 +14,10 @@
     ```
    
 
-5.1. *iOS:* Open VLC, go to "Network" at the bottom, paste the adress, tap on "Open Network Stream".
+5. Open Stream
+*iOS:* Open VLC, go to "Network" at the bottom, paste the adress, tap on "Open Network Stream".
 
-5.2. *Android:* Open VLC, go to "More" at the bottom, + Stream, paste the address, submit.
+*Android:* Open VLC, go to "More" at the bottom, + Stream, paste the address, submit.
 
 6. If audio has more than 5 sec delay -> Move playback position all the way to the front
 <p align="center">
