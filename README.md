@@ -15,6 +15,7 @@
    
 
 5. Open Stream
+
    *iOS:* Open VLC, go to "Network" at the bottom, paste the adress, tap on "Open Network Stream".
 
    *Android:* Open VLC, go to "More" at the bottom, + Stream, paste the address, submit.
