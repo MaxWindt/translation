@@ -1,4 +1,5 @@
 # Hello
+**[English](#stream-translation-without-internet)**
 **[Deutsch](#%C3%BCbersetzung-ohne-internet-streamen)**
 
 ## Stream translation without internet
