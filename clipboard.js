@@ -4,7 +4,7 @@
  * This script adds a simple "copy to clipboard" button to code elements located within <pre> elements. 
  * Requires jQuery. Can be used with the Jekyll Minimal Mistakes theme by adding it to the 'after_footer_scripts'.
  */
-src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 
 function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
