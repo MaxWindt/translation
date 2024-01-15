@@ -30,7 +30,7 @@
 
 ## Übersetzung ohne Internet streamen:
 
-1. VLC Player runterladen videolan.org
+1. VLC Player runterladen www.videolan.org
 2. Mit lokalem wifi in der Halle verbinden: *Translation*
 3. Netzwerkadresse kopieren und in VLC öffnen: 
     
