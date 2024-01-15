@@ -5,12 +5,12 @@
 1. download VLC Player [videolan.org](http://www.videolan.org/)
 2. copy network address:
 
-    Translation
+    Translation Channel
     ```sh
     http://192.168.188.20:8000/translation.m3u
     ```
 
-    Original
+    Original Channel
     ```sh
     http://192.168.188.20:8000/original.m3u
     ```
@@ -38,12 +38,12 @@ If audio has more than 5 sec delay -> Move playback position all the way to the 
 2. Netzwerkadresse kopieren und in VLC öffnen: 
     
 
-    Übersetzung
+    Übersetzungs Kanal
     ```sh
     http://192.168.188.20:8000/translation.m3u
     ```
 
-    Original
+    Original Kanal
     ```sh
     http://192.168.188.20:8000/original.m3u
     ```
