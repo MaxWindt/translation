@@ -2,7 +2,7 @@
 **[Deutsch](#%C3%BCbersetzung-ohne-internet-streamen)**
 
 ## Stream translation without internet
-1. download VLC Player www.videolan.org
+1. download VLC Player [videolan.org]
 2. connect to local wifi in the hall: *Translation*
 3. copy network address:
 
