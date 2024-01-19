@@ -2,7 +2,13 @@
 **[Deutsch](#%C3%BCbersetzung-ohne-internet-streamen)**
 
 ## Stream Translation Without Internet
-1. download VLC Player [videolan.org](http://www.videolan.org/)
+1. download VLC Player [videolan.org](http://www.videolan.org/), start it once and allow Berechtigungen.
+
+Android: 
+Connect with Translation WiFi in the hall
+Scan QR Codes in the hall.
+
+iOS
 2. copy network address:
 
     Translation Channel
