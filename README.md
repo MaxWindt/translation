@@ -5,7 +5,7 @@
 1. download VLC Player [videolan.org](http://www.videolan.org/)
 2. copy network address:
 
-    Translation [Channel](vlc://192.168.188.20:8000/translation.m3u)
+    Translation Channel
     ```sh
     http://192.168.188.20:8000/translation.m3u
     ```
